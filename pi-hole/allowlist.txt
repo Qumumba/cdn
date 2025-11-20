@@ -1,0 +1,26 @@
+# Glance Icons
+cdn.jsdelivr.net
+
+# Syncthing
+data.syncthing.net
+
+# MC Mods
+adfoc.us
+
+# Google Analytics
+analytics.google.com
+
+# Gemini
+ogads-pa.clients6.google.com
+www.gstatic.com
+
+# Nectar Card
+auth.split.io
+sdk.split.io
+
+# Square Payment Gateway
+checkout.square.site
+
+# Pizza Hut
+cdn.optimizely.com
+cdn.cookielaw.org
