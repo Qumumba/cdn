@@ -24,3 +24,6 @@ checkout.square.site
 # Pizza Hut
 cdn.optimizely.com
 cdn.cookielaw.org
+
+# Speedtest Tracker
+icanhazip.com
