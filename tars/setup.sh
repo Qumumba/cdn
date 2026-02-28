@@ -2,6 +2,11 @@
 
 # Run using: curl -L https://cdn.tars.sh/setup | bash
 
+MAGENTA='\033[0;35m'
+NO_COLOR='\033[0m'
+
+TARS_INFO="[${MAGENTA}TARS${NO_COLOR}]"
+
 # Update & Clean Linux Packages
 sudo apt update
 sudo apt autoremove -y
@@ -46,4 +51,6 @@ sudo usermod -aG docker $USER
 # Complete
 echo ""
 echo "---------------------------------------"
-echo "[TARS] Setup Installed. Please restart."
+echo -e "${TARS_INFO} Setup Installed. Please restart."
+echo "---------------------------------------"
+echo ""
