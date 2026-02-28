@@ -3,6 +3,7 @@
 # Run using: curl -L https://cdn.tars.sh/setup | bash
 
 MAGENTA='\033[0;35m'
+GREY='\033[1;30m'
 NO_COLOR='\033[0m'
 NO_COLOR_BOLD='\033[1m'
 
@@ -51,7 +52,7 @@ sudo usermod -aG docker $USER
 
 # Complete
 echo ""
-echo "---------------------------------------"
-echo -e "${TARS_INFO} Setup Installed. ${NO_COLOR_BOLD}Please restart."
-echo "---------------------------------------"
+echo -e "${GREY}---------------------------------------"
+echo -e "${TARS_INFO} Setup Installed. ${NO_COLOR_BOLD}Please restart.${NO_COLOR}"
+echo -e "${GREY}---------------------------------------"
 echo ""
