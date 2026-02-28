@@ -10,7 +10,7 @@ NO_COLOR_BOLD='\033[1m'
 
 TARS_SUCCESS="[${GREEN}TARS${NO_COLOR}]"
 TARS_INFO="[${MAGENTA}TARS${NO_COLOR}]"
-SEPARATOR="${GREY}---------------------------------------${NO_COLOR}"
+SEPARATOR="${GREY}--------------------------------------------${NO_COLOR}"
 
 # Update & Clean Linux Packages
 echo ""
