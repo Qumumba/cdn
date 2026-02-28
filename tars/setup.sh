@@ -4,6 +4,7 @@
 
 MAGENTA='\033[0;35m'
 NO_COLOR='\033[0m'
+NO_COLOR_BOLD='\033[1m'
 
 TARS_INFO="[${MAGENTA}TARS${NO_COLOR}]"
 
@@ -51,6 +52,6 @@ sudo usermod -aG docker $USER
 # Complete
 echo ""
 echo "---------------------------------------"
-echo -e "${TARS_INFO} Setup Installed. Please restart."
+echo -e "${TARS_INFO} Setup Installed. ${NO_COLOR_BOLD}Please restart."
 echo "---------------------------------------"
 echo ""
