@@ -44,4 +44,6 @@ sudo apt update && sudo apt install docker-ce docker-ce-cli containerd.io docker
 sudo usermod -aG docker $USER
 
 # Complete
+echo ""
+echo "---------------------------------------"
 echo "[TARS] Setup Installed. Please restart."
