@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Run using: curl -L https://cdn.tars.sh/setup | bash
+# Run using: sudo apt install -y curl && curl -L https://cdn.tars.sh/setup | bash
 
 GREY='\033[1;30m'
 GREEN='\033[0;32m'
@@ -30,7 +30,7 @@ echo -e "${TARS_INFO} Installing ${NO_COLOR_BOLD}packages included in APT${NO_CO
 echo -e "${SEPARATOR}"
 echo ""
 
-sudo apt install -y micro fastfetch curl git nodejs npm imagemagick
+sudo apt install -y micro fastfetch git nodejs npm imagemagick
 
 # NVM
 echo ""
