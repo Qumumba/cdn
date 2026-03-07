@@ -27,3 +27,6 @@ cdn.cookielaw.org
 
 # Speedtest Tracker
 icanhazip.com
+
+# Selfh.st Newletter Links
+email.mail.selfh.st
