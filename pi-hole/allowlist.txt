@@ -30,3 +30,6 @@ icanhazip.com
 
 # Selfh.st Newletter Links
 email.mail.selfh.st
+
+# DDNS
+freemyip.com
