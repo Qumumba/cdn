@@ -34,3 +34,6 @@ email.mail.selfh.st
 # DDNS
 freemyip.com
 ifconfig.me
+
+# MTG
+gtly.ink
