@@ -37,3 +37,6 @@ ifconfig.me
 
 # MTG
 gtly.ink
+
+# Google Analytics
+marketingplatform.google.com
