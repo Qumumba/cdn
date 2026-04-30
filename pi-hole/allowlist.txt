@@ -40,3 +40,4 @@ gtly.ink
 
 # Google Analytics
 marketingplatform.google.com
+tagmanager.google.com
