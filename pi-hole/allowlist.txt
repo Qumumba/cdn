@@ -9,6 +9,8 @@ adfoc.us
 
 # Google Analytics
 analytics.google.com
+marketingplatform.google.com
+tagmanager.google.com
 
 # Gemini
 ogads-pa.clients6.google.com
@@ -37,7 +39,3 @@ ifconfig.me
 
 # MTG
 gtly.ink
-
-# Google Analytics
-marketingplatform.google.com
-tagmanager.google.com
