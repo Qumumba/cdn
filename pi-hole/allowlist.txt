@@ -48,3 +48,6 @@ tracking.petsathome.com
 
 #Semrush
 semrush.com
+
+# Proton VPN
+protonvpn.com
