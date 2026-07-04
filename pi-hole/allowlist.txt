@@ -52,3 +52,4 @@ semrush.com
 # Proton VPN
 protonvpn.com
 protonweb.com
+vpncdn.protonweb.com
