@@ -53,3 +53,6 @@ semrush.com
 protonvpn.com
 protonweb.com
 vpncdn.protonweb.com
+
+# Discord
+click.discord.com
