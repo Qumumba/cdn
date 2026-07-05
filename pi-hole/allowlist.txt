@@ -14,7 +14,7 @@ tagmanager.google.com
 
 # Gemini
 ogads-pa.clients6.google.com
-www.gstatic.com
+gstatic.com
 
 # Nectar Card
 auth.split.io
