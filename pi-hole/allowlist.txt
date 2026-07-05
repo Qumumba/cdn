@@ -56,3 +56,6 @@ vpncdn.protonweb.com
 
 # Discord
 click.discord.com
+
+# Spotify
+wl.spotify.com
