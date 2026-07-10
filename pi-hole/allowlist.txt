@@ -1,61 +1,64 @@
+# DDNS
+freemyip.com
+ifconfig.me
+
+# Discord
+click.discord.com
+
+# Gemini
+ogads-pa.clients6.google.com
+gstatic.com
+
 # Glance Icons
 cdn.jsdelivr.net
-
-# Syncthing
-data.syncthing.net
-
-# MC Mods
-adfoc.us
 
 # Google Analytics
 analytics.google.com
 marketingplatform.google.com
 tagmanager.google.com
 
-# Gemini
-ogads-pa.clients6.google.com
-gstatic.com
+# Indeed
+jobs.jobvite.com
+
+# MC Mods
+adfoc.us
+
+# MTG
+gtly.ink
 
 # Nectar Card
 auth.split.io
 sdk.split.io
 
-# Square Payment Gateway
-checkout.square.site
+# Pets At Home
+tracking.petsathome.com
 
 # Pizza Hut
 cdn.optimizely.com
 cdn.cookielaw.org
-
-# Speedtest Tracker
-icanhazip.com
-
-# Selfh.st Newletter Links
-email.mail.selfh.st
-
-# DDNS
-freemyip.com
-ifconfig.me
-
-# MTG
-gtly.ink
-
-#Indeed
-jobs.jobvite.com
-
-#Pets At Home
-tracking.petsathome.com
-
-#Semrush
-semrush.com
 
 # Proton VPN
 protonvpn.com
 protonweb.com
 vpncdn.protonweb.com
 
-# Discord
-click.discord.com
+# Selfh.st Newletter Links
+email.mail.selfh.st
+
+# Semrush
+semrush.com
+www.semrush.com
+api.semrush.com
+oauth.semrush.com
+
+# Speedtest Tracker
+icanhazip.com
 
 # Spotify
 wl.spotify.com
+
+# Square Payment Gateway
+checkout.square.site
+
+# Syncthing
+data.syncthing.net
