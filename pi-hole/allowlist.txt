@@ -42,6 +42,10 @@ protonvpn.com
 protonweb.com
 vpncdn.protonweb.com
 
+# Rollbar
+rollbar.com
+api.rollbar.com
+
 # Selfh.st Newletter Links
 email.mail.selfh.st
 
