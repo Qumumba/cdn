@@ -20,6 +20,9 @@ tagmanager.google.com
 # Indeed
 jobs.jobvite.com
 
+# Life360
+life360.com
+
 # MC Mods
 adfoc.us
 
