@@ -1,3 +1,6 @@
+# cs.money
+cs.money
+
 # DDNS
 freemyip.com
 ifconfig.me
