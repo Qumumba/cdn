@@ -50,6 +50,7 @@ vpncdn.protonweb.com
 
 # Rollbar
 rollbar.com
+app.rollbar.com
 api.rollbar.com
 
 # Selfh.st Newletter Links
