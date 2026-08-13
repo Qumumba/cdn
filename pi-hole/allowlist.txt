@@ -6,8 +6,8 @@ ifconfig.me
 click.discord.com
 
 # Gemini
-ogads-pa.clients6.google.com
 gstatic.com
+ogads-pa.clients6.google.com
 
 # Glance Icons
 cdn.jsdelivr.net
@@ -37,8 +37,8 @@ auth.split.io
 sdk.split.io
 
 # Pizza Hut
-cdn.optimizely.com
 cdn.cookielaw.org
+cdn.optimizely.com
 
 # Proton VPN
 protonvpn.com
@@ -46,15 +46,14 @@ protonweb.com
 vpncdn.protonweb.com
 
 # Rollbar
-rollbar.com
-app.rollbar.com
 api.rollbar.com
+app.rollbar.com
+rollbar.com
 
 # Semrush
-semrush.com
-www.semrush.com
 api.semrush.com
 oauth.semrush.com
+semrush.com
 
 # Speedtest Tracker
 icanhazip.com
