@@ -1,6 +1,3 @@
-# cs.money
-cs.money
-
 # DDNS
 freemyip.com
 ifconfig.me
@@ -20,6 +17,9 @@ analytics.google.com
 marketingplatform.google.com
 tagmanager.google.com
 
+# Google Find Hub
+findmydevice-pa.googleapis.com
+
 # Indeed
 jobs.jobvite.com
 
@@ -36,9 +36,6 @@ gtly.ink
 auth.split.io
 sdk.split.io
 
-# Pets At Home
-tracking.petsathome.com
-
 # Pizza Hut
 cdn.optimizely.com
 cdn.cookielaw.org
@@ -52,9 +49,6 @@ vpncdn.protonweb.com
 rollbar.com
 app.rollbar.com
 api.rollbar.com
-
-# Selfh.st Newletter Links
-email.mail.selfh.st
 
 # Semrush
 semrush.com
@@ -73,3 +67,7 @@ checkout.square.site
 
 # Syncthing
 data.syncthing.net
+
+# XBOX
+arc.msn.com
+collections.mp.microsoft.com
