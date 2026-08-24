@@ -2,6 +2,9 @@
 freemyip.com
 ifconfig.me
 
+# Dominos
+firebaseinstallations.googleapis.com
+
 # Discord
 click.discord.com
 
