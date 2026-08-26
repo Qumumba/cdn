@@ -39,6 +39,10 @@ gtly.ink
 auth.split.io
 sdk.split.io
 
+# Paramount+
+imasdk.googleapis.com
+production-cmp.isgprivacy.cbsi.com
+
 # Pizza Hut
 cdn.cookielaw.org
 cdn.optimizely.com
