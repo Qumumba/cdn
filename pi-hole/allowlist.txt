@@ -32,6 +32,12 @@ life360.com
 # MC Mods
 adfoc.us
 
+# Monzo
+68aa7b45-ga.spatialbuzz.net
+geomobileservices-pa.googleapis.com
+o23827.ingest.sentry.io
+sdk.fra-01.braze.eu
+
 # MTG
 gtly.ink
 
