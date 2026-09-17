@@ -50,6 +50,7 @@ sdk.split.io
 imasdk.googleapis.com
 production-cmp.isgprivacy.cbsi.com
 r2---sn-aigzrn76.googlevideo.com
+saa.paramountplus.com
 
 # Pizza Hut
 cdn.cookielaw.org
