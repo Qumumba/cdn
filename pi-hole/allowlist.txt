@@ -83,6 +83,9 @@ checkout.square.site
 # Syncthing
 data.syncthing.net
 
+# Trainline
+dd.thetrainline.com
+
 # XBOX
 arc.msn.com
 collections.mp.microsoft.com
