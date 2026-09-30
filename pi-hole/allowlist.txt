@@ -66,6 +66,9 @@ api.rollbar.com
 app.rollbar.com
 rollbar.com
 
+# Ryanair
+assets.ryanair.com
+
 # Semrush
 api.semrush.com
 oauth.semrush.com
