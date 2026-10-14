@@ -1,3 +1,6 @@
+# Chrome
+storage.googleapis.com
+
 # DDNS
 freemyip.com
 ifconfig.me
