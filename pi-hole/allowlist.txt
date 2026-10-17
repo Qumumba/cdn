@@ -30,6 +30,9 @@ findmydevice-pa.googleapis.com
 # Indeed
 jobs.jobvite.com
 
+# Jameson
+ik.imagekit.io
+
 # Life360
 life360.com
 
