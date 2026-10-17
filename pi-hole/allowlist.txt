@@ -67,6 +67,9 @@ protonvpn.com
 protonweb.com
 vpncdn.protonweb.com
 
+# PyPI
+files.pythonhosted.org
+
 # Rollbar
 api.rollbar.com
 app.rollbar.com
