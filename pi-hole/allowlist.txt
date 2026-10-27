@@ -95,6 +95,9 @@ checkout.square.site
 # Syncthing
 data.syncthing.net
 
+# The Snow Centre
+thesnowcentre.com
+
 # Trainline
 dd.thetrainline.com
 
