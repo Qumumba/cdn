@@ -97,6 +97,7 @@ data.syncthing.net
 
 # The Snow Centre
 thesnowcentre.com
+booking.thesnowcentre.com
 
 # Trainline
 dd.thetrainline.com
