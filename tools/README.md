@@ -3,9 +3,9 @@
 ## Progress bars
 
 `generate_progress_bars.py` draws the 101 progress bar images in `progress/`, from `progress-0.png` to `progress-100.png` in 1% steps.
-Each one is a 400x20 px pill with its percentage after it in Inter Bold, on a transparent background, drawn at 4x and downsampled with LANCZOS.
-The colours are the constants at the top of the script, taken from the Hydration dark theme (`--panel-line`, `--accent-icon` and zinc-100 text).
-Inter is in `fonts/` under the SIL Open Font License (`fonts/OFL.txt`).
+Each one is a 1810x32 px pill on a transparent background, drawn at 4x and downsampled with LANCZOS.
+Discord stretches a message image to the full message width, so the bar is drawn at twice a typical desktop width to stay sharp, with no text on it; the percentage goes in the message text instead.
+The colours are the constants at the top of the script, taken from the Hydration dark theme (`--panel-line` and `--accent-icon`).
 
 To re-run it after changing a colour or size:
 
