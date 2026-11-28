@@ -4,7 +4,8 @@ from PIL import Image, ImageDraw
 
 TRACK_COLOUR = "#3F3F46"
 FILL_COLOUR = "#C27AFF"
-WIDTH = 1810
+CANVAS_WIDTH = 1810
+BAR_WIDTH = 1207
 HEIGHT = 32
 SCALE = 4
 STEPS = range(0, 101)
@@ -14,7 +15,7 @@ OUTPUT = Path(__file__).resolve().parent.parent / "progress"
 def fill_width(percent):
     if percent <= 0:
         return 0
-    return max(HEIGHT, round(WIDTH * min(percent, 100) / 100))
+    return max(HEIGHT, round(BAR_WIDTH * min(percent, 100) / 100))
 
 
 def pill(draw, width, colour):
@@ -22,13 +23,13 @@ def pill(draw, width, colour):
 
 
 def render(percent):
-    image = Image.new("RGBA", (WIDTH * SCALE, HEIGHT * SCALE), (0, 0, 0, 0))
+    image = Image.new("RGBA", (CANVAS_WIDTH * SCALE, HEIGHT * SCALE), (0, 0, 0, 0))
     draw = ImageDraw.Draw(image)
-    pill(draw, WIDTH, TRACK_COLOUR)
+    pill(draw, BAR_WIDTH, TRACK_COLOUR)
     filled = fill_width(percent)
     if filled:
         pill(draw, filled, FILL_COLOUR)
-    return image.resize((WIDTH, HEIGHT), Image.LANCZOS)
+    return image.resize((CANVAS_WIDTH, HEIGHT), Image.LANCZOS)
 
 
 def main():
